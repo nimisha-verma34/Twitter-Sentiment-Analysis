@@ -43,7 +43,7 @@ We trained a Bernoulli Naive Bayes (BNB) classifier using the TF-IDF vectors as 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/supriya811106/Twitter-Sentiment-Analysis.git
+git clone https://github.com/nimisha-verma34/Twitter-Sentiment-Analysis.git
 ```
 
 3. Install the required dependencies (see the Dependencies section).
